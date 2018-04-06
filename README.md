@@ -1,2 +1,2 @@
-# dreamod
-Minecraft Mod
+# dream
+Mod
